@@ -1,5 +1,5 @@
 To install openwebui:
-    - pip install openwebui
+    - pip install -U open-webui
 
 To run openwebui:
     - open-webui serve
